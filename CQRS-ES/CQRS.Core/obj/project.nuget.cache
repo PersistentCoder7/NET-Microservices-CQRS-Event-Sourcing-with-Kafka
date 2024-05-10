@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRKeny+J73XwXNPtSdRA6+Wv6GqCK4gM9wkgmiFyXhXl+1DUipYZ0vLwb54qheV0P7dA17HlnkDeFFRGAuWDBA==",
+  "success": true,
+  "projectFilePath": "E:\\Development\\Microservices\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prabh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

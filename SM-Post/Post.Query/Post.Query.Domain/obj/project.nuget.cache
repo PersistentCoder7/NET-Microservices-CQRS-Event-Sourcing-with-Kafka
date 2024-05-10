@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rl6MP6Ne3nwZunxqQPZijT/A6EOUQ1VmSNuDrpKzvMnK2Smi8aAwJPN6PT3jiyNnb8D83cXaqr7ZMUm6Ht86xA==",
+  "success": true,
+  "projectFilePath": "E:\\Development\\Microservices\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prabh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
