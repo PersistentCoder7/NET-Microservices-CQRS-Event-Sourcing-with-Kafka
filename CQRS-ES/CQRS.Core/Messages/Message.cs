@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace CQRS.Core.Messages
 {
-    public class Message
+    public abstract class Message
     {
         public Guid Id { get; set; }
     }
